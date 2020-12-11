@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="265896b4-31bf-41eb-b300-65e332efea02" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aNacXgRSVD8bbRFnEJd7JeUxHB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../P4Client" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TheGameOfMorra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TheGameOfMorra" />
+      <module name="MorraServer_Project3_Sp2020" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TheGameOfMorra" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="265896b4-31bf-41eb-b300-65e332efea02" name="Default Changelist" comment="" />
+      <created>1586578584945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586578584945</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="427" height="466" key="DebuggerActiveHint" timestamp="1586808573984">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="427" height="466" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1586808573984" />
+    <state x="551" y="296" key="FileChooserDialogImpl" timestamp="1588082219207">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="551" y="296" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1588082219207" />
+    <state width="1340" height="192" key="GridCell.Tab.0.bottom" timestamp="1587659330411">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1340" height="192" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587659330411" />
+    <state width="1340" height="192" key="GridCell.Tab.0.center" timestamp="1587659330411">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1340" height="192" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587659330411" />
+    <state width="1340" height="192" key="GridCell.Tab.0.left" timestamp="1587659330411">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1340" height="192" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587659330411" />
+    <state width="1340" height="192" key="GridCell.Tab.0.right" timestamp="1587659330411">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1340" height="192" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587659330411" />
+    <state width="1104" height="277" key="GridCell.Tab.1.bottom" timestamp="1586839260635">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1104" height="277" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586839260635" />
+    <state width="1104" height="277" key="GridCell.Tab.1.center" timestamp="1586839260635">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1104" height="277" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586839260635" />
+    <state width="1104" height="277" key="GridCell.Tab.1.left" timestamp="1586839260635">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1104" height="277" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586839260635" />
+    <state width="1104" height="277" key="GridCell.Tab.1.right" timestamp="1586839260635">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1104" height="277" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586839260635" />
+    <state x="320" y="90" key="SettingsEditor" timestamp="1587612367552">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="320" y="90" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1587612367552" />
+    <state x="311" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1588082169687">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="311" y="362" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1588082169687" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TheGameOfMorra.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Server.java</url>
+          <line>214</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Server.java</url>
+          <line>325</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Server.java</url>
+          <line>226</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="e" />
+        <watch expression="this" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
